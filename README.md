@@ -33,7 +33,7 @@ create-vue-business-rs
 
 TODO 待修改
 
-![演示](./media/it_work.png)
+![演示](./media/it_dev_work.png)
 
 ## 开发指南
 
