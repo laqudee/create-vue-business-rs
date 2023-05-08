@@ -26,7 +26,7 @@ pub fn work(configures: &mut ConfiguresSelected) -> (String, &ConfiguresSelected
     println!("! Current project name: {}", project_name);
 
     let config_value = Select::with_theme(&ColorfulTheme::default())
-        .with_prompt("Pick your flavor")
+        .with_prompt("Determine Web(Element-plus) or H5(Vant) project creation?")
         .default(0)
         .items(&selections[..])
         .interact()
