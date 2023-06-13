@@ -1,6 +1,6 @@
 [package]
 name = "create-vue-business-rs"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["laqudee des <yunlongzhao1996@gmail.com>"]
 keywords = ["create-vue-business", "fe-cli"]
 description = "An easy way to start a pnpm monorepo packages business project about Vue and create-vue-monorepo-rs"
